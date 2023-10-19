@@ -1,1 +1,3 @@
-# android_color_my_views
+# Color My Views Android demo app
+
+This is an Android app and is to be used only for educational and training purposes.
